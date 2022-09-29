@@ -16,6 +16,8 @@ module.exports = {
         extend: {
             backgroundImage: {
                 'hero-image': "url('/images/banner.jpg')",
+                'today': "url('/images/today.jpg')",
+                'todaycon': "url('/images/todaycon.jpg')",
             },
             fontFamily: {
                 'os': ['Open Sans'],
